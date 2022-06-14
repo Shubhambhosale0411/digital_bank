@@ -17,7 +17,7 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
 ## Installation
 1. Open a Terminal, and clone the current repository.
     ```
-    git clone https://github.com/rafi007akhtar/CentralBank.git
+    git clone https://github.com/Shubhambhosale0411/digital_bank.git
     ```
 2. Enter the root directory.
     ```
@@ -30,7 +30,6 @@ This is a Banking web-app I created as a part of my Engineering curriculum.
     ```
     If that didn't work, try replacing `python` by `python3` in the above command.
 
-4. Follow the <a href="#demo">Demo</a> section and use the app as you like.
 
 ### Disclaimer
 This app represents a  fictitious bank. All transactions, account numbers and account holdings are unreal.
