@@ -1,5 +1,3 @@
-# CentralBank
-
 This is a Banking web-app I created as a part of my Engineering curriculum.
 
 ## Features
